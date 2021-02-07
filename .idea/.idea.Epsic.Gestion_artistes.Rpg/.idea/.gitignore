@@ -1,0 +1,13 @@
+﻿# Default ignored files
+/shelf/
+/workspace.xml
+# Rider ignored files
+/.idea.Epsic.Gestion_artistes.Rpg.iml
+/modules.xml
+/contentModel.xml
+/projectSettingsUpdater.xml
+# Datasource local storage ignored files
+/../../../../../../../../:\Document\Epsic\Examens-326-151\Epsic.Gestion_artistes.Rpg\.idea\.idea.Epsic.Gestion_artistes.Rpg\.idea/dataSources/
+/dataSources.local.xml
+# Editor-based HTTP Client requests
+/httpRequests/

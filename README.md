@@ -16,6 +16,8 @@ Ce rendre dans le dossier tests et ensuite lancer la commande `dotnet test` pour
 
 ## Infos supplémentaire
 
+- Les différents diagrammes se trouve en PDF à la racine du projet.
+
 - La base de données posséde déjà des données dans toutes les tables.
 
 - Lors de la création d'un artiste ou d'un album il faut saisir la valeur null sous la propriété Picture. Pour ajouter une image ensuite à un artiste par exemple il faudra le faire depuis la
